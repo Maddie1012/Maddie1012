@@ -13,7 +13,7 @@ I'm a Computer Science student from Russia with a passion for web development an
 - 🌍 I speak **Russian**, **English** and **German**.
 
 
-## 🛠️ Technologies I Use
+## 🛠️ Languages and tools
 Here are some of the technologies and tools I am proficient with:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

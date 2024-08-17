@@ -10,6 +10,8 @@ I'm a Computer Science student from Russia with a passion for web development an
 - 🔭 I’m currently working on various web development projects and learning new technologies.
 - 🌱 I’m currently learning advanced JavaScript frameworks and exploring the world of TypeScript.
 - 👯 I’m looking to collaborate on exciting web development projects.
+- 🌍 I speak **Russian**, **English** and **German**.
+
 
 ## 🛠️ Technologies I Use
 Here are some of the technologies and tools I am proficient with:
@@ -20,6 +22,8 @@ Here are some of the technologies and tools I am proficient with:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 ## 📫 Contact Me

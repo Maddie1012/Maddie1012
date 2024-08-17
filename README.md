@@ -31,6 +31,8 @@ Here are some of the technologies and tools I am proficient with:
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karatseva.madina1012@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%231CA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/poltorashka1012)
 [![VK](https://img.shields.io/badge/VK-%230079A1?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/maddie1012)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2384C84A?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79685065905)
+
 
 ## 🌟 LeetCode Stats
 
